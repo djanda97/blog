@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://djanda97.gitlab.io"
+base_url = "https://djanda97.pages.dev"
 
 theme = "terminimal"
 
@@ -34,6 +34,5 @@ menu_items = [
     # {name = "about me", url = "$BASE_URL/about"},
 
     # set newtab to true to make the link open in new tab
-    {name = "gitlab", url = "https://gitlab.com/djanda97", newtab = true},
-    {name = "github", url = "https://github.com/djanda97", newtab = true},
+    { name = "github", url = "https://github.com/djanda97", newtab = true },
 ]
