@@ -14,7 +14,9 @@ date = 2023-06-22
 
 * Backend/Server:
   * Go - via completing exercises from [*The Go Programming Language*](https://www.gopl.io/) book by Alan Donovan & Brian Kernighan
-  * Rust - via completing exercises from [*The Rust Programming Language*](https://doc.rust-lang.org/book/) book and the [rustlings](https://github.com/rust-lang/rustlings) course
+
+* Systems:
+  * Zig - via completing exercises from the [ziglings](https://github.com/ratfactor/ziglings) course
   
 * Frontend/UI:  
   * Elm - via completing exercises from the [*Elm In Action*](https://www.manning.com/books/elm-in-action) book by Richard Feldman
