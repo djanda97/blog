@@ -18,4 +18,6 @@ page_titles = "combined"
 
 menu_items = [
     { name = "github", url = "https://github.com/djanda97", newtab = true },
+    { name = "linkedin", url = "https://www.linkedin.com/in/david-janda/", newtab = true },
+    { name = "goodreads", url = "https://www.goodreads.com/user/show/165326841-david-janda", newtab = true },
 ]
