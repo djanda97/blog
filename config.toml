@@ -2,7 +2,7 @@ base_url = "https://djanda97.pages.dev"
 
 theme = "terminimal"
 
-title = "/home/djanda97"
+title = "~djanda97"
 
 compile_sass = true
 
@@ -13,7 +13,7 @@ highlight_code = false
 
 [extra]
 accent_color = "orange"
-logo_text = "/home/djanda97"
+logo_text = "~djanda97"
 page_titles = "combined"
 
 menu_items = [
